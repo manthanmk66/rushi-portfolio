@@ -46,7 +46,7 @@ export default function Page() {
         <BlurFade delay={BLUR_FADE_DELAY * 4}>
           <Markdown className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground dark:prose-invert">
             {DATA.summary}
-          </Markdown>dillionverma-portfolio-a247c86
+          </Markdown>
         </BlurFade>
       </section>
       {/* <section id="work">
@@ -106,8 +106,9 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Why memes?-
-                Memes are the best medium to conversate any message to your audience and the potential audience and they're fun!
+                  Why memes?- Memes are the best medium to conversate any
+                  message to your audience and the potential audience and
+                  they're fun!
                 </p>
               </div>
             </div>
