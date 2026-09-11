@@ -11,7 +11,6 @@ export const DATA = {
     "AI content strategist. I build the prompt systems, SEO engines, and editorial QA loops that sit behind AI-assisted publishing.",
   summary:
     "Five years in, most of my work now sits behind the content rather than in it: system prompts, evaluation criteria, tone guidelines, and the QA loops that decide whether an AI-assisted page is good enough to publish. At Backpack Exchange I own that infrastructure across 40+ pages, plus the SEO side of it, topic clusters, search intent, metadata, and the Webflow publishing that ships it all. Before that I spent years on the front end of consumer tech, fintech, and app-ecosystem brands: social and GTM content for CoinDCX, Gray Spark Audio's Instagram past 17K followers, a Solana Breakpoint campaign past 500K impressions on Twitter. The part I actually enjoy is the messy one, watching a prompt fail in some new way, fixing it, then watching the next forty pages come out right.",
-  avatarUrl: "/rushi.jpg",
   skills: [
     "SEO Strategy",
     "Content Strategy & Ops",
@@ -48,13 +47,6 @@ export const DATA = {
     email: "irushibiradar@gmail.com",
     tel: "+91 9673820215",
     social: {
-      LinkedIn: {
-        name: "LinkedIn",
-        url: "https://linkedin.com/in/rushikesheth",
-        icon: Icons.linkedin,
-
-        navbar: true,
-      },
       X: {
         name: "X",
         url: "https://x.com/gurglemonster",
@@ -85,7 +77,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "SEO Writer & AI Content Workflow Strategist",
-      logoUrl: "/backpack.png",
+      logoUrl: "/backpacklogo.jpg",
       start: "2025",
       end: "Present",
       description:
@@ -97,7 +89,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Content Writer & AI Narrative Strategist",
-      logoUrl: "/mira.png",
+      logoUrl: "/Miralogo.jpg",
       start: "2024",
       end: "2025",
       description:
@@ -109,7 +101,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Content Strategist & GTM Lead",
-      logoUrl: "/nola.png",
+      logoUrl: "/nolalogo.png",
       start: "2024",
       end: "2025",
       description:
@@ -263,7 +255,7 @@ export const DATA = {
       location: "AI-assisted publishing",
       description:
         "Published and maintained at a consistent quality bar through prompt-governed editorial systems and repeated evaluation cycles.",
-      image: "/backpack.png",
+      image: "/backpacklogo.jpg",
       mlh: "",
       links: [],
     },
